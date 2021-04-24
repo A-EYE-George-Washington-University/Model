@@ -55,7 +55,7 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
 
 ## Examples of GradCam Images 
 
-## Normal Image 
+### Normal Image 
 ![e](GradCam_Examples/Normal.png)
 
 ### Diabetic Retinopathy Image
