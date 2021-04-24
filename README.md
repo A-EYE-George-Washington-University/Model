@@ -54,10 +54,10 @@ Have the following Python packets
 The model was trained and created in AWS Sagemaker. Please note comments to make changes to run locally. 
 
 ## Examples of GradCam Images 
-##### Diabetic Retinopathy Image
+### Diabetic Retinopathy Image
 ![e](GradCam_Examples/Diabetes.png)
 
-#### Glaucoma Image 
+### Glaucoma Image 
 ![e](GradCam_Examples/Glaucoma.png)
 
 
