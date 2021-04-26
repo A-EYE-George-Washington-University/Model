@@ -66,6 +66,7 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
 
 
 ## Website 
+![e](images/website.png)
 
 ## Data
 
