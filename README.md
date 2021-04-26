@@ -39,7 +39,7 @@ https://www.anaconda.com/products/individual
 
 https://www.python.org/downloads/
 
-Have the following Python packets 
+Have the following Python Libraries Installed
 * numpy 
 * pandas 
 * cv2
