@@ -79,6 +79,7 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
  | https://www.it.lut.fi/project/imageret/diaretdb0/#DOWNLOAD | Diabetic Retinopathy |
  | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | Glaucoma, Diabetic Retinopathy, AMD|
  | https://ai.baidu.com/broad/download | AMD, Glaucoma, Myopia | 
+ |https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k|Diabetic Retinopathy, Normal, Cataract, Glaucoma, AMD, Myopia|
 
 
   
