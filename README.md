@@ -87,7 +87,7 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
 
 
 
- Logo Design- Jody Serani
+######  Logo Design- Jody Serani
 
 
   
