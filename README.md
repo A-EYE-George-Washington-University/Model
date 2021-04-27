@@ -82,7 +82,11 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
  |https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k|Diabetic Retinopathy, Normal, Cataract, Glaucoma, AMD, Myopia|
  
  
- 
+
+
+
+
+
  Logo Design- Jody Serani
 
 
