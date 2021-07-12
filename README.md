@@ -1,4 +1,4 @@
-# AEYE
+# A-EYE
 ## Introduction 
 Multi-class image classifer for Fundus Opthamologic Medical Imagings
 
