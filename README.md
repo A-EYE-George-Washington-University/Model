@@ -1,5 +1,5 @@
 
-## Introduction 
+# Introduction 
 Multi-class image classifer for Fundus Opthamologic Medical Imagings
 
 Detects the following disease:
@@ -21,7 +21,7 @@ Detects the following disease:
 ![e](images/acc_loss.png)
 
 
-## Using model 
+# Using model 
 
 ```python
 
@@ -29,7 +29,7 @@ from keras.models import Model, load_model
 model= load_model(PATH/model.h5)
 ```
 
-## How to Run and Train Model Locally 
+# How to Run and Train Model Locally 
 
 Download Jupyter Notebooks, Anaconda, Python 3 
 
@@ -65,10 +65,10 @@ The model was trained and created in AWS Sagemaker. Please note comments to make
 ![e](GradCam_Examples/Glaucoma.png)
 
 
-## Website 
+# Website 
 ![e](images/website.png)
 
-## Data
+# Data
 
  Source | Diease 
   --- | --- 
