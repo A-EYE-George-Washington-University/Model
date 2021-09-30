@@ -23,6 +23,7 @@ Detects the following disease:
 
 # Using model 
 
+![e](images/model.png)
 ```python
 
 from keras.models import Model, load_model
