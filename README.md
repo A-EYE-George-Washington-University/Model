@@ -22,8 +22,6 @@ Detects the following disease:
 
 
 # Using model 
-
-![e](images/model.png)
 ```python
 
 from keras.models import Model, load_model
@@ -31,7 +29,8 @@ model= load_model(PATH/model.h5)
 ```
 
 # How to Run and Train Model Locally 
-
+### training_model.ipynb
+![e](images/model.png)
 Download Jupyter Notebooks, Anaconda, Python 3 
 
 https://jupyter.org/install
@@ -45,7 +44,7 @@ Have the following Python Libraries Installed
 * pandas 
 * cv2
 * matplotlib
-* Tensorflow
+* Tensorflow 2
 * Keras 
 * IPython 
 * PIL 
