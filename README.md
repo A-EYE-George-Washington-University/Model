@@ -31,6 +31,7 @@ model= load_model(PATH/model.h5)
 # How to Run and Train Model Locally 
 ### training_model.ipynb
 ![e](images/model.png)
+
 Download Jupyter Notebooks, Anaconda, Python 3 
 
 https://jupyter.org/install
