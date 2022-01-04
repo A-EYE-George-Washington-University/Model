@@ -28,6 +28,8 @@ from keras.models import Model, load_model
 model= load_model(PATH/model.h5)
 ```
 
+Demo to come 
+
 # How to Run and Train Model Locally 
 ### training_model.ipynb
 ![e](images/model.png)
